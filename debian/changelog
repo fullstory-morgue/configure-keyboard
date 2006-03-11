@@ -1,8 +1,15 @@
+kbdconfig-kanotix (0.5.5) unstable; urgency=low
+
+  * remove cdbs auto-update feature.
+  * bump compat level to 5.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 11 Mar 2006 23:41:49 +0100
+
 kbdconfig-kanotix (0.5.4) unstable; urgency=low
 
   * fix lintian errors.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 23 Aug 2005 15:56:03 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 11 Mar 2006 23:41:44 +0100
 
 kbdconfig-kanotix (0.5-3) unstable; urgency=low
 
