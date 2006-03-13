@@ -9,6 +9,6 @@ Package: kbdconfig-kanotix
 Architecture: all
 Provides: kbdconfig
 Replaces: kbdconfig
-Depends: hwsetup-kanotix, dialog, xdialog
+Depends: hwsetup-ng, dialog, xdialog
 Description: Lightweight keyboard configuration tool for Kanotix
  small tool for configuring keyboards.
