@@ -26,7 +26,7 @@ rm -f "$TMP"
 [ -f /etc/sysconfig/keyboard ] && . /etc/sysconfig/keyboard
 
 case "$LANGUAGE" in
-de) TITLE="Bitte w‰hlen Sie Ihr Keyboard"; ;;
+de) TITLE="Bitte w√§hlen Sie Ihr Keyboard"; ;;
 es) TITLE="Por favor, seleccione el teclado"; ;;
 *)  TITLE="Please choose keyboard"; ;;
 esac
