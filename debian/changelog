@@ -1,3 +1,9 @@
+kbdconfig-kanotix (0.5.9) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu,  9 Nov 2006 21:21:57 +0100
+
 kbdconfig-kanotix (0.5.8) unstable; urgency=low
 
   * fix i18n handling.
