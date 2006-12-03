@@ -1,10 +1,12 @@
-configure-keyboard (0.5.9) UNRELEASED; urgency=low
+configure-keyboard (0.5.9) unstable; urgency=low
 
-  * NOT RELEASED YET
-
+  [ Joaquim Boura ]
   * Initial version for sidux
 
- -- Joaquim Boura <x-un-i@sidux.com>  Fri,  1 Dec 2006 21:03:54 +0100
+  [ Stefan Lippers-Hollmann ]
+  * tweak debian/control.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun,  3 Dec 2006 01:48:46 +0100
 
 kbdconfig-kanotix (0.5.8) unstable; urgency=low
 
